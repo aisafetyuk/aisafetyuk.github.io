@@ -3,8 +3,8 @@
     <title>logo</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="logo" transform="translate(2.000000, 0.000000)" fill-rule="nonzero">
-            <path id="Jekyll" fill="#2f2f41" d=""></path>
-            <path id="Serif" fill="#E5261F" d=""></path>
+            <path id="AI" fill="#2f2f41" d="">AI</path>
+            <path id="Safety" fill="#E5261F" d="">Safety</path>
         </g>
     </g>
 </svg>
