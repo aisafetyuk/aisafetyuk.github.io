@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: AI Safety
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: AI Safety Limited
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# AI Safety.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+We provide software tools and guidances to support the safe and trustworthy development of AI systems, and how AI might be used to improve the productivity and responsibility of a system.
